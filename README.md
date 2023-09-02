@@ -1,6 +1,6 @@
 # Hey there! I'm Furkan 🚀
 
-I'm a passionate **Flutter Developer** from Turkey. Driven by my passion for clean code, I always delve into the nuances of good architectures and best practices. To enhance my expertise in Flutter, I'm currently venturing into the realms of native development.
+I'm a passionate **Flutter Developer** from Turkey. Driven by my passion for clean code, I always delve into the nuances of good architectures and best practices.
 
 🌍 **Check out my [Portfolio](https://furkansoylemez.github.io/)!**
 
